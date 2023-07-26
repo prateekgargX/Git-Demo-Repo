@@ -1,2 +1,2 @@
 # Git-Demo-Repo
-A repo to demonstrate git workflow
+A repo to demonstrate git workflow like this
